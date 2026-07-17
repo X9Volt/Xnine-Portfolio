@@ -388,8 +388,6 @@ nav{
 
     gap:25px;
 
-    margin-bottom:15px;
-
 }
 
 .card{
@@ -403,6 +401,8 @@ nav{
     padding:30px;
 
     transition:var(--transition);
+
+    margin-bottom:10px;
 
 }
 
